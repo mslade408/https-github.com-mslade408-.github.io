@@ -1,0 +1,114 @@
+body {
+  background-color: black;
+  height: auto;
+  width: auto;
+}
+
+p {
+  color: grey;
+  font-family: Proxima Nova;
+  width: 1050px;
+  background-color: black;
+  border-style: solid;
+  border-color: black;
+  padding-left: 2%;
+  padding-right: 2%;
+  float: left;
+}
+
+nav {
+  border-color: black;
+  background-color:
+    width: 250px;
+  height: inherit;
+}
+
+main {}
+
+h1 {
+  color: grey
+}
+
+.div1 {
+  margin-left: 250px;
+  background-color: grey;
+  float: right;
+}
+
+.div2 {display: flex;
+  width: 30%;
+  border: solid;
+  border-color: grey;
+  background-color: black;
+  align-content: center;
+  float: left;
+}
+
+ul {
+  color:
+}
+
+container {
+display: flex;
+  width: 1050px;
+  height: 50%;
+  border-color: white;
+  background-color: white;
+  align-items: center;
+}
+.div3 {
+  width: 50%;
+  height: 50%;
+  border: solid;
+  border-color: none;
+  background-color: black;
+  align-content: center;
+  align-items: center;
+  }
+
+.div4 {
+  width: 30%;
+  height: 25%;
+  border: solid;
+  border-color: grey;
+  background-color: black;
+  align-content: center;
+  align: center
+}
+
+@@font-face {
+  vogue;
+}
+
+@@font-face {
+  Proxima Nova;
+}
+
+@@font-face {
+  impact;
+}
+
+h1 {
+  font-family: impact;
+  font-size: 48px;
+}
+
+h2 {color: grey;
+  font-family: impact;
+  font-size: 36px;
+}
+
+a {
+  color: grey;
+}
+
+a:hover,a h2:hover {
+  color: white;
+  display: block;
+  width: 35%;
+}
+nav{ display: inline;}
+li {color: grey}
+ul {color: grey
+}
+h4 {color: grey}
