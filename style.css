@@ -14,6 +14,7 @@ p {
   padding-left: 2%;
   padding-right: 2%;
   float: left;
+  display: inline;
 }
 
 nav {
@@ -115,3 +116,11 @@ li {color: grey}
 ul {color: grey
 }
 h4 {color: grey}
+button {
+  background-color: black;
+  text-decoration-color: blue;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration:underline;
+  display: inline-block;
+  font-size: 16px;}
