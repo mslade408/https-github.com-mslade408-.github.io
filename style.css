@@ -51,7 +51,7 @@ ul {
 }
 
 container {
-display:flex;
+display: inline-block;
   width: 1050px;
   height: 50%;
   border-color: white;
